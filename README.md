@@ -1,13 +1,14 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Karen+Castaneda!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Karen+Castañeda!;" />
 </h1>
 <br/>
 
-<div align="center"style="margin: 20px;">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=500&color=F7B9EA&width=600&lines=%F0%9F%9A%80Student+of+Computer+Science%F0%9F%9A%80;%F0%9F%8C%B1and+Artificial+Intelligence%F0%9F%A7%A0" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&center=true&vCenter=true&duration=3000&pause=500&color=F7B9EA&width=500&lines=%F0%9F%9A%80Student+of+Computer+Science%F0%9F%9A%80;%F0%9F%8C%B1and+Artificial+Intelligence%F0%9F%A7%A0" alt="Typing SVG" />
   </a>
 </div>
+
 
 <br/>
 
