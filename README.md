@@ -63,7 +63,7 @@
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
     <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" />
     <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
-    <img src="https://skillicons.dev/icons?i=terminal" alt="Terminal" />
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
     <br/><br/>
 
 
