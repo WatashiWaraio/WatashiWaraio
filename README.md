@@ -48,3 +48,29 @@
     style="display: block; margin: 0 auto;"
   />
 </picture>
+
+<h2 align="center">🦖⚒️ Languages - Tools ⚒️🦖</h2>
+<br/>
+
+<div align="center">
+    <!-- Lenguajes -->
+    <h3>🐍 Languages</h3>
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+    <br/><br/>
+
+    <!-- Herramientas -->
+    <h3>🛠️ Tools</h3>
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+    <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" />
+    <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <br/><br/>
+
+    <!-- Aprendizaje -->
+    <h3>🌱 Learning</h3>
+    <p>
+        🖥️ Exploring more about Linux servers 🐧  
+        🎓 Proud student at <a href="https://platzi.com/" target="_blank">Platzi</a> 🌟  
+    </p>
+</div>
