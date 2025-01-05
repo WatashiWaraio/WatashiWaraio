@@ -49,12 +49,9 @@
   />
 </picture>
 
-<h2 align="center">🦖⚒️ Languages - Frameworks - Tools ⚒️🦖</h2>
-<br/>
+<h2 align="center">🦖⚒️ Languages And Tools ⚒️🦖</h2>
 
 <div align="center">
-    <!-- Lenguajes -->
-    <h3>🐍 Languages and Tools 🛠️</h3>
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
     <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
     <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
