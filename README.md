@@ -71,7 +71,6 @@
  
 </div>
 <div align="center">
-    <!-- Título centrado -->
     <h2 style="font-size: 48px; font-weight: bold; color: #4CAF50;">🌱 Learning & Interests</h2>
     <ul style="font-size: 30px; list-style-type: none; padding-left: 0; text-align: left; width: 100%; display: inline-block;">
         <li>🎓 Currently in my 5th semester of Computer Science</li>
