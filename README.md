@@ -72,7 +72,7 @@
 <div align="center">
     <!-- Título centrado -->
     <h2 style="font-size: 48px; font-weight: bold; color: #4CAF50;">🌱 Learning & Interests</h2>
-    <ul style="font-size: 28px; list-style-type: none; padding-left: 0; text-align: left; width: 100%; display: inline-block;">
+    <ul style="font-size: 30px; list-style-type: none; padding-left: 0; text-align: left; width: 100%; display: inline-block;">
         <li>🎓 Currently in my 5th semester of Computer Science</li>
         <li>🐍 Exploring Backend Development with Python</li>
         <li>🐧 Learning Linux Servers and Administration</li>
@@ -81,7 +81,7 @@
         <li>🖥️ Studying Interpreters and Compilers</li>
         <li>🔐 Passionate about Cybersecurity</li>
     </ul>
-    <p style="font-size: 24px;">
+    <p style="font-size: 28px;">
         🌟 Proud student at <a href="https://platzi.com/" target="_blank" style="color: #0077B5; font-weight: bold;">Platzi</a> 🎓
     </p>
 </div>
