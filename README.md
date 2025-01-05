@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="margin: 20px;">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=6289F7&width=600&lines=I'm+Karen+Casta%C3%B1eda!" alt="Typing SVG" />
     </a>
@@ -6,7 +6,7 @@
 
 <br/>
 
-<div align="center" style="margin-top: 20px;">
+<div align="center"style="margin: 20px;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=500&color=F7B9EA&width=600&lines=%F0%9F%9A%80Student+of+Computer+Science%F0%9F%9A%80;%F0%9F%8C%B1and+Artificial+Intelligence%F0%9F%A7%A0" alt="Typing SVG" />
   </a>
@@ -14,14 +14,14 @@
 
 <br/>
 
-<div align="center" style="margin-top: 20px;">
+<div align="center"style="margin: 20px;">
    🚀 <strong>This is my Lab 🧪</strong> <br/>
    🚀 <strong>I want to learn a lot 🦖</strong>
 </div>
 
 <br/>
 
-<div align="center" style="margin-top: 20px;"> 
+<div align="center" style="margin: 20px;"> 
   <a href="mailto:karencastaneda301@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
