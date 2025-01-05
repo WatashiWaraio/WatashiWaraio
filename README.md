@@ -63,9 +63,7 @@
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
     <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" />
     <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/OpenAI_Logo_2023.svg" alt="ChatGPT" width="50" height="50" />
-    <!-- Claude -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Claude_logo.svg" alt="Claude" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=terminal" alt="Terminal" />
     <br/><br/>
 
 
