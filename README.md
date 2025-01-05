@@ -69,8 +69,19 @@
 
  
 </div>
-   <h3>🌱 Learning</h3>
-    <p>
-        🖥️ Exploring more about Linux servers 🐧  
-        🎓 Proud student at <a href="https://platzi.com/" target="_blank">Platzi</a> 🌟  
+<div align="center">
+    <!-- Sección Learning más grande -->
+    <h2 style="font-size: 36px; font-weight: bold; color: #4CAF50;">🌱 Learning & Interests</h2>
+    <ul style="font-size: 22px; list-style-type: none; padding-left: 0;">
+        <li>🎓 Currently in my 5th semester of Computer Science</li>
+        <li>🐍 Exploring Backend Development with Python</li>
+        <li>🐧 Learning Linux Servers and Administration</li>
+        <li>🌐 Diving into Git & GitHub</li>
+        <li>☁️ Exploring Cloud Computing</li>
+        <li>🖥️ Studying Interpreters and Compilers</li>
+        <li>🔐 Passionate about Cybersecurity</li>
+    </ul>
+    <p style="font-size: 20px;">
+        🌟 Proud student at <a href="https://platzi.com/" target="_blank" style="color: #0077B5; font-weight: bold;">Platzi</a> 🎓
     </p>
+</div>
