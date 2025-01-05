@@ -67,9 +67,10 @@
 
 
 
-    <h3>🌱 Learning</h3>
+ 
+</div>
+   <h3>🌱 Learning</h3>
     <p>
         🖥️ Exploring more about Linux servers 🐧  
         🎓 Proud student at <a href="https://platzi.com/" target="_blank">Platzi</a> 🌟  
     </p>
-</div>
