@@ -1,9 +1,6 @@
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Karen+Castañeda!;" />
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=500&color=F7B9EA&center=true&vCenter=true&width=435&lines=Karen+Casta%C3%B1eda+;%F0%9F%9A%80Student+of+Computer+Science+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
-<br/>
 
 <div align="center">
  
