@@ -11,7 +11,6 @@
 
 <div align="center">
  
-   ## 🚀Student of Computer Science 🌱 and Artificial Intelligence 🧠
  
    ## 🚀 This is my Lab 🧪 
 
