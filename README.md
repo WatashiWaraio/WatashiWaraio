@@ -49,25 +49,27 @@
   />
 </picture>
 
-<h2 align="center">🦖⚒️ Languages - Tools ⚒️🦖</h2>
+<h2 align="center">🦖⚒️ Languages - Frameworks - Tools ⚒️🦖</h2>
 <br/>
 
 <div align="center">
     <!-- Lenguajes -->
-    <h3>🐍 Languages</h3>
+    <h3>🐍 Languages and Tools 🛠️</h3>
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-    <br/><br/>
-
-    <!-- Herramientas -->
-    <h3>🛠️ Tools</h3>
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" />
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
     <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" />
     <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
     <br/><br/>
 
-    <!-- Aprendizaje -->
+
+
     <h3>🌱 Learning</h3>
     <p>
         🖥️ Exploring more about Linux servers 🐧  
